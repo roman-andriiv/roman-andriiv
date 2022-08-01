@@ -8,5 +8,5 @@
     roman.andriyiv@gmail.com
 🔹LinkedIn:
     https://www.linkedin.com/in/roman-andriiv/
-🔹LinkedIn:
+🔹Facebook:
     https://www.facebook.com/r.andriiv/
