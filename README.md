@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @roman-andriiv and it`s my studying accout with small testing projects
-- 👀 I’m interested in Java Developing, related technologies and something new
-- 🌱 I’m currently learning programming languages such as Java, JS and SQL
-- 📫 How to reach me:
+Ski rescuer in the past⛷️🏔️🚑 chef/pizzaiolo in Italian restaurant now🔪🍝🍕 Java Developer in the future👨‍💻⌨️<br><br>
+👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies
+
+📫 How to reach me: <br>
 🔹SKYPE: 
-    roman.andriyiv;
+    [roman.andriyiv](https://join.skype.com/invite/MRfM9105SMBf) <br>
 🔹EMAIL:
-    roman.andriyiv@gmail.com
+    roman.andriyiv@gmail.com <br>
 🔹LinkedIn:
-    https://www.linkedin.com/in/roman-andriiv/
+    https://www.linkedin.com/in/roman-andriiv <br>
 🔹Facebook:
-    https://www.facebook.com/r.andriiv/
+    https://www.facebook.com/r.andriiv
