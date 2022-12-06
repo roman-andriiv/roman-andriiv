@@ -5,7 +5,7 @@ Ski rescuer in the past⛷️🏔️🚑 chef/pizzaiolo in Italian restaurant no
 🔹SKYPE: 
     [roman.andriyiv](https://join.skype.com/invite/MRfM9105SMBf) <br>
 🔹EMAIL:
-    roman.andriyiv@gmail.com <br>
+    roman.andriiv.dev@gmail.com <br>
 🔹LinkedIn:
     https://www.linkedin.com/in/roman-andriiv <br>
 🔹Facebook:
