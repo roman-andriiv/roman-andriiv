@@ -1,4 +1,3 @@
-Ski rescuer in the past⛷️🏔️🚑 chef/pizzaiolo in Italian restaurant now🔪🍝🍕 Java Developer in the future👨‍💻⌨️<br><br>
 👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies
 
 📫 How to reach me: <br>
