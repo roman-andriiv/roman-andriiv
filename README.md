@@ -1,6 +1,7 @@
  <img align="right" width="auto" height="230" src="https://user-images.githubusercontent.com/63511356/235300964-351ad8bf-25e9-4c33-a536-fa2f730f2bd5.gif"/> 
- <h3 align="left">👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies</h3>
-👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies
+
+<h3 align="left">👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies</h3>
+
 <h3 align="left">📫 How to reach me:</h3>
 
 <p align="center">
