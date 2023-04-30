@@ -1,11 +1,9 @@
  <img align="right" width="auto" height="230" src="https://user-images.githubusercontent.com/63511356/235300964-351ad8bf-25e9-4c33-a536-fa2f730f2bd5.gif"/> 
  
 👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies
-
-📫 How to reach me: <br>
+<h3 align="left">📫 How to reach me:</h3>
 
 <p align="center">
-
 <a href="mailto:roman.andriiv.dev@gmail.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="gmail" width="40" height="40"/> 
 </a> 
@@ -25,7 +23,7 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
