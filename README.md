@@ -4,7 +4,7 @@
 
 📫 How to reach me: <br>
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:roman.andriiv.dev@gmail.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="gmail" width="40" height="40"/> 
