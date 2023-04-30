@@ -64,6 +64,9 @@
     </a> 
 </p>
 
-<p><img align="left" width="auto" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-andriiv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="roman-andriiv" /></p>
+<p align = "justify">
+<img width="auto" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-andriiv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="roman-andriiv" />
+<img  width="auto" height="190" src="https://github-readme-stats.vercel.app/api?username=roman-andriiv&show_icons=true&theme=dracula&locale=en" alt="roman-andriiv" />
+</p>
 
-<p>&nbsp;<img align="center" width="auto" height="190" src="https://github-readme-stats.vercel.app/api?username=roman-andriiv&show_icons=true&theme=dracula&locale=en" alt="roman-andriiv" /></p>
+
