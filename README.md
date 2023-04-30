@@ -1,4 +1,4 @@
- <img align="right" width="350" height="auto" src="https://user-images.githubusercontent.com/63511356/235300964-351ad8bf-25e9-4c33-a536-fa2f730f2bd5.gif"/> 
+ <img align="right" width="auto" height="250" src="https://user-images.githubusercontent.com/63511356/235300964-351ad8bf-25e9-4c33-a536-fa2f730f2bd5.gif"/> 
  
 👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies
 
@@ -51,6 +51,6 @@
     </a> 
 </p>
 
-<p><img align="left" width="auto" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-andriiv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="roman-andriiv" /></p>
+<p><img align="left" width="auto" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-andriiv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="roman-andriiv" /></p>
 
-<p>&nbsp;<img align="center" width="auto" height="350" src="https://github-readme-stats.vercel.app/api?username=roman-andriiv&show_icons=true&theme=dracula&locale=en" alt="roman-andriiv" /></p>
+<p>&nbsp;<img align="center" width="auto" height="230" src="https://github-readme-stats.vercel.app/api?username=roman-andriiv&show_icons=true&theme=dracula&locale=en" alt="roman-andriiv" /></p>
