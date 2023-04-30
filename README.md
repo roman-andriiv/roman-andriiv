@@ -25,15 +25,6 @@
 </p>
 
 
-🔹SKYPE: 
-    [roman.andriyiv](https://join.skype.com/invite/MRfM9105SMBf) <br>
-🔹EMAIL:
-    roman.andriiv.dev@gmail.com <br>
-🔹LinkedIn:
-    https://www.linkedin.com/in/roman-andriiv <br>
-🔹Facebook:
-    https://www.facebook.com/r.andriiv
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
