@@ -3,6 +3,28 @@
 👋Hi, I’m @roman-andriiv and welcome to my Github profile with a small projects where I learn to code and develop my skills with Java and related back-end technologies
 
 📫 How to reach me: <br>
+
+<p align="left">
+
+<a href="mailto:roman.andriiv.dev@gmail.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="gmail" width="40" height="40"/> 
+</a> 
+ 
+ <a href="https://www.linkedin.com/in/roman-andriiv/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="linkedIn" width="40" height="40"/> 
+</a>
+ 
+<a href="https://join.skype.com/invite/MRfM9105SMBf" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/349506/skype.svg" alt="skype" width="40" height="40"/> 
+</a>
+ 
+  <a href="https://www.facebook.com/r.andriiv" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/349359/facebook.svg" alt="facebook" width="40" height="40"/> 
+</a>
+
+</p>
+
+
 🔹SKYPE: 
     [roman.andriyiv](https://join.skype.com/invite/MRfM9105SMBf) <br>
 🔹EMAIL:
