@@ -72,9 +72,9 @@
     </a> 
 </p>
 
-<p align = "justify">
+<div align = "center">
 <img width="auto" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-andriiv&show_icons=true&theme=dracula&locale=en&layout=compact" alt="roman-andriiv" />
 <img  width="auto" height="190" src="https://github-readme-stats.vercel.app/api?username=roman-andriiv&show_icons=true&theme=dracula&locale=en" alt="roman-andriiv" />
-</p>
+</div>
 
 
